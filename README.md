@@ -1,5 +1,8 @@
+[![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/168257270/original/f78696dbacb2929525009ef4f3380f8ebdee8bab/develop-mern-stack-application.jpg)](https:/krayush1109.io)
+
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krayush1109&label=Profile%20views&color=0e75b6&style=flat" alt="krayush1109" /> </p>
 
@@ -10,8 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krayush1109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krayush1109" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@techforyouth6279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@techforyouth6279" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@hellotoayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hellotoayush" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@techforyouth6279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techforyouth6279" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hellotoayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hellotoayush" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
