@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [_____________](__Project Link)
+- 👨‍💻 All of my projects are available at <a href='https://krayush1109.github.io/' target='_blank' > ____ </a>
 
 - 💬 Ask me about **JavaScript, React**
 
