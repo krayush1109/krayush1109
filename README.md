@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at <a href='https://github.com/orgs/DEPLOY-1109/repositories' target='_blank' > Depoloy1109/repo 🔗 </a>
+- 👨‍💻 All of my projects are available at **<a href='https://github.com/orgs/DEPLOY-1109/repositories' target='_blank' > DEPLOY-1109/repo 🔗 </a>**
 
 - 💬 Ask me about **JavaScript, React**
 
@@ -58,7 +58,7 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krayush1109&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krayush1109&theme=dark)](https://github.com/krayush1109)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krayush1109&theme=dark)](#)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
