@@ -25,7 +25,7 @@
 
 - 📫 How to reach me : **hellotomycomputer@gmail.com**
 
-- 📄 Know about my experiences : [**Here is My RESUME**](https://drive.google.com/file/d/13QY3JJZzrcWrTs3J1ry75XNN8Ag8xa7r/view?usp=sharing)
+- 📄 Know about my experiences : [**Here is My RESUME**](https://drive.google.com/file/d/13Si_ZCwMul9Fldg0nqcOB6crtkqeRiiw/view?usp=sharing)
 
 </h3>
 
