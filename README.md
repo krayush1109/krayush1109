@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 📝 [Coding Cheat Sheet **Notes**](https://hashnode.com/@krayush1109)
+- 📝 [Coding Cheat Sheet - **Blogs** ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&style) ](https://hashnode.com/@krayush1109)
 
 - 👨‍💻 All of my projects are available at 
 
