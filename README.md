@@ -8,9 +8,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" >
 
-### 🔭 I’m currently working on **Projects(MERN)**
+<p> 🔭 I’m currently working on **Projects(MERN)** </p>
 
-### 🌱 I’m currently learning **React JS**
+- ### 🌱 I’m currently learning **React JS**
 
 ### 📝 [Coding Cheat Sheet **Notes**](https://hashnode.com/@krayush1109)
 
