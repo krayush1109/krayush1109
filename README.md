@@ -7,26 +7,26 @@
 <h3 align="center">A passionate <strong> MERN Stack </strong>Developer from India </br></br>I am a full stack web developer with experience in building responsive websites and applications using JavaScript frameworks like ReactJS, NodeJs, Express etc., </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" >
+<h3 align="left">
+- 🔭 I’m currently working on **Projects(MERN)** </p>
 
-<p> 🔭 I’m currently working on **Projects(MERN)** </p>
+- 🌱 I’m currently learning **React JS**
 
-- ### 🌱 I’m currently learning **React JS**
+- 📝 [Coding Cheat Sheet **Notes**](https://hashnode.com/@krayush1109)
 
-### 📝 [Coding Cheat Sheet **Notes**](https://hashnode.com/@krayush1109)
-
-### 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at 
 
   - **<a href='https://github.com/orgs/DEPLOY-1109/repositories' target='_blank' > Source Code - DEPLOY-1109/repo 🔗 </a>** or 
   
   - [**Live Demo** - ![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&style)](https://linktr.ee/krayush1109)
 
-### 💬 Ask me about `JavaScript` , `React`
+- 💬 Ask me about : `JavaScript` , `React`
 
-### 📫 How to reach me **hellotomycomputer@gmail.com**
+- 📫 How to reach me : **hellotomycomputer@gmail.com**
 
-### 📄 Know about my experiences [**Here is My RESUME**](https://drive.google.com/file/d/13QY3JJZzrcWrTs3J1ry75XNN8Ag8xa7r/view?usp=sharing)
+- 📄 Know about my experiences : [**Here is My RESUME**](https://drive.google.com/file/d/13QY3JJZzrcWrTs3J1ry75XNN8Ag8xa7r/view?usp=sharing)
 
-<h3 align="left"></h3>
+</h3>
 
 ## 🌐 Socials Links 🔗 : (Connect with me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krayush1109) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&style)](https://hashnode.com/@krayush1109) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&style)](https://linktr.ee/krayush1109) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20222152) 
