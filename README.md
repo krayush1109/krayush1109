@@ -8,17 +8,23 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" >
 
-- 🔭 I’m currently working on **Projects(MERN)**
+### 🔭 I’m currently working on **Projects(MERN)**
 
-- 🌱 I’m currently learning **React JS**
+### 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at **<a href='https://github.com/orgs/DEPLOY-1109/repositories' target='_blank' > DEPLOY-1109/repo 🔗 </a>** or [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&style)](https://linktr.ee/krayush1109)
+### 📝 [Coding Cheat Sheet **Notes**](https://hashnode.com/@krayush1109)
 
-- 💬 Ask me about **JavaScript, React**
+### 👨‍💻 All of my projects are available at 
 
-- 📫 How to reach me **hellotomycomputer@gmail.com**
+  - **<a href='https://github.com/orgs/DEPLOY-1109/repositories' target='_blank' > Source Code - DEPLOY-1109/repo 🔗 </a>** or 
+  
+  - Live Demo - [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&style)](https://linktr.ee/krayush1109)
 
-- 📄 Know about my experiences [**Here is My RESUME**](https://drive.google.com/file/d/13QY3JJZzrcWrTs3J1ry75XNN8Ag8xa7r/view?usp=sharing)
+### 💬 Ask me about `JavaScript` , `React`
+
+### 📫 How to reach me **hellotomycomputer@gmail.com**
+
+### 📄 Know about my experiences [**Here is My RESUME**](https://drive.google.com/file/d/13QY3JJZzrcWrTs3J1ry75XNN8Ag8xa7r/view?usp=sharing)
 
 <h3 align="left"></h3>
 
