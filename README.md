@@ -18,7 +18,7 @@
 
   - **<a href='https://github.com/orgs/DEPLOY-1109/repositories' target='_blank' > Source Code - DEPLOY-1109/repo 🔗 </a>** or 
   
-  - Live Demo - [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&style)](https://linktr.ee/krayush1109)
+  - [**Live Demo** - ![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&style)](https://linktr.ee/krayush1109)
 
 ### 💬 Ask me about `JavaScript` , `React`
 
