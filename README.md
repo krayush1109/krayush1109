@@ -60,6 +60,8 @@
 ### 🎨 Design 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](#)
 
+#📈 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/krayush1109?theme=dark&font=M%20PLUS%20Code%20Latin&ext=heatmap)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=krayush1109&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
